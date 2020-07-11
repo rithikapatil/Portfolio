@@ -1,0 +1,36 @@
+.profile {
+    background-color: f2b5d4;
+    text-align: center;
+    height: 75vh ;
+    min-width: 500px;
+    padding-top: 25vh;
+}
+
+.profile{
+    font-family: 'Caveat';
+}
+
+body {
+    font-family: 'Nanum Pen Script';
+
+}
+
+.profile-img{
+    border-radius: 50%;
+    width: 200px;
+}
+
+h1{
+    font-family: 'Satisfy';
+    font-size: 70px; 
+}
+
+p{
+    font-size: 30px;
+}
+
+.achivements{
+    background-color 21fa90;
+    margin: 20px 30px 40px 40px;
+
+}
